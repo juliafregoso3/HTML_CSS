@@ -1,0 +1,33 @@
+#container {
+  color: white;
+  padding: 5px;
+  font-size: 50px;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rectangulo {
+  background-color: crimson;
+  width: 20vw;
+}
+
+.px {
+  background-color: aqua;
+  width: 200px;
+}
+
+.vw {
+  background-color: purple;
+  width: 20vw;
+}
+
+.em {
+  background-color: rgb(255, 0, 140);
+  width: 15em;
+}
+
+.rem {
+  background-color: green;
+  font-size: 50px;
+  width: 15rem;
+}
